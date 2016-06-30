@@ -2,7 +2,7 @@
 
 Sean Yarborough, Completed 06/29/2016
 
-The run_analysis.R script should be placed within the UCI HAR Dataset folder, which should be set as the working directory in R in order for this to work correctly.  The script goes through the five steps (or transformations) outlined in the project requirements.
+The run_analysis.R script should be placed within the UCI HAR Dataset folder (as downloaded), which should be set as the working directory in R in order for this to work correctly.  The script goes through the five steps (or transformations) outlined in the project requirements.
 
 First, a series of read.table commands are used to source the various pieces of data included in the UCI HAR Dataset folder.  These are stored as objects for use in later parts of the script.
 
